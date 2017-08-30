@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">哔哩哔哩</string>
+    <string name="start_tiyan">开始体验</string>
+    <string name="item_home">主页</string>
+    <string name="item_vip">我的大会员</string>
+    <string name="item_down">下载专区</string>
+    <string name="item_favourite">我的收藏</string>
+    <string name="item_history">历史记录</string>
+    <string name="item_group">我的关注</string>
+    <string name="item_tracker">B币钱包</string>
+    <string name="item_theme">主题选择</string>
+    <string name="item_app">应用推荐</string>
+    <string name="hotbitmapgg">我的头像</string>
+    <string name="level_text">LV2</string>
+    <string name="members">正式会员</string>
+    <string name="item_set">设置</string>
+    <string name="user_name">马翔是我们男神</string>
+    <string name="tv_follow">关注</string>
+    <string name="tv_center">中心</string>
+    <string name="tv_video">小视频</string>
+    <string name="tv_search">搜索</string>
+    <string name="tv_fenlei">分类</string>
+    <string name="video_init">初始化播放器</string>
+    <string name="add_follow">+关注</string>
+
+    <string-array name="topfragment">
+        <item>
+            直播
+        </item>
+        <item>
+            失已效
+        </item>
+        <item>
+            下载
+        </item>
+        <item>
+            分区
+        </item>
+        <item>
+            动态
+        </item>
+        <item>
+            发现
+        </item>
+    </string-array>
+
+    <string-array name="downfragment">
+        <item>
+            最新电影
+        </item>
+        <item>
+            国内电影
+        </item>
+        <item>
+            欧美电影
+        </item>
+        <item>
+            日韩电影
+        </item>
+
+
+    </string-array>
+
+    <string-array name="livePlayerTabLayout">
+        <item>互动</item>
+        <item>排行榜</item>
+        <item>舰队</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_footer_loading">正在加载...</string>
+    <string name="text_footer_loadmore">点击加载更多..</string>
+    <string name="text_getstory_list_failed">加载失败，请检查网络设置</string>
+    <string name="text_load_failed_no_network">链接失败，请检查网络设置</string>
+    <string name="text_pull_to_refresh">刷新重试</string>
+    <string name="text_footer_get_yesterday_story">点击加载更多内容</string>
+    <string name="lorem_ipsum">orem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna tortor, semper eu feugiat eu, vehicula vitae lacus.</string>
+    <string name="load_more_movie">查看更多内容</string>
+    <string name="_8_2">movie_store</string>
+    <string name="movie_store">9.0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
